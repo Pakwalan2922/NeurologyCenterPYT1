@@ -19,10 +19,10 @@ const Intro = () => {
           <div className='flex-1'>
             <Tabs defaultValue='neuro'>
               <TabsList className='font-ibm_plex_sans_thai w-full flex-wrap flex xl:flex-row xl:max-w-[600px] xl:border justify-between'>
-                <TabsTrigger value='neuro' className='my-1 xl:my-0 w-[170px] xl:w-[140px]'>Neurology Center</TabsTrigger>
-                <TabsTrigger value='preventive' className='my-1 xl:my-0 w-[170px] xl:w-[140px]'>Preventive Care</TabsTrigger>
-                <TabsTrigger value='curative' className='my-1 xl:my-0 w-[170px] xl:w-[140px]'>Curative care</TabsTrigger>
-                <TabsTrigger value='Rehab' className='my-1 xl:my-0 w-[170px] xl:w-[140px]'>Rehabilitation</TabsTrigger>
+                <TabsTrigger value='neuro' className='my-1 xl:my-0 w-[170px] xl:w-[140px] border xl:border-none rounded-[100px]'>Neurology Center</TabsTrigger>
+                <TabsTrigger value='preventive' className='my-1 xl:my-0 w-[170px] xl:w-[140px] border xl:border-none rounded-[100px]'>Preventive Care</TabsTrigger>
+                <TabsTrigger value='curative' className='my-1 xl:my-0 w-[170px] xl:w-[140px] border xl:border-none rounded-[100px]'>Curative care</TabsTrigger>
+                <TabsTrigger value='Rehab' className='my-1 xl:my-0 w-[170px] xl:w-[140px] border xl:border-none rounded-[100px]'>Rehabilitation</TabsTrigger>
               </TabsList>
               {/* Tab Content */}
               <div className='mt-4 xl:mt-2'>
