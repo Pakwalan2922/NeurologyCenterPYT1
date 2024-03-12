@@ -19,7 +19,7 @@ const product = [
   },
   {
     image: '/package/Package-Neurology-Center-03.jpg',
-    title: 'MRI Headache',
+    title: 'MRI Headache โปรแกรมตรวจวินิจฉัยอาการปวดหัวด้วย MRI',
     price: '13,000.00 THB',
     link: 'https://www.phyathai.com/th/package/mri-headache-pyt1?utm_source=LP&utm_medium=NeurologyCenterPYT1'
   },
