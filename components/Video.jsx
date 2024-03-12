@@ -26,7 +26,7 @@ const videoData = [
     image: '/about/cover_04.jpg',
     category: 'Video จากใจผู้รับบริการ',
     name: 'จากผู้ป่วยติดเตียง สู่ นักวิ่งมาราธอน คุณสุรจิต รักติประกร',
-    link: 'https://bit.ly/3Oel3xR',
+    link: 'https://bit.ly/4bcmgPT',
   },
 ]
 
