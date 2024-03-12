@@ -32,7 +32,7 @@ const ArticleCard = ({ article }) => {
           <p className='text-[0.9rem] line-clamp-2 pt-3 pb-0 leading-6'>{article.description}</p>
         </Link>
         <Link href='https://www.phyathai.com/th/article/category/medical?hospital=pyt1&center_category=101'>
-          <Button className='font-ibm_plex_sans_thai font-normal rounded-full bg-transparent border border-[#1F1F1F] text-[#1F1F1F] hover:text-white hover:bg-[#1F1F1F] hover:border-[#1F1F1F] w-[80px] mt-6 py-1 text-sm'>{article.button}</Button>
+          <div className='font-ibm_plex_sans_thai font-normal rounded-full bg-transparent border border-[#1F1F1F] text-[#1F1F1F] hover:text-white hover:bg-[#1F1F1F] hover:border-[#1F1F1F] w-[80px] mt-6 py-1 text-sm text-center'>{article.button}</div>
         </Link>
       </div>
     </Card>
