@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { IoIosCart } from "react-icons/io";
-import { Button } from 'react-scroll';
+// import { Button } from 'react-scroll';
 
 const product = [
   {
@@ -97,11 +97,11 @@ const Product = () => {
                   </div>
                   <div>
                     <Link href={product.link}>
-                      <Button className='font-ibm_plex_sans_thai font-medium rounded-full bg-transparent border border-[#1F1F1F] text-[#1F1F1F] hover:text-white hover:bg-[#1F1F1F] hover:border-[#1F1F1F] w-[120px] xl:w-[140px] mt-6 py-1 xl:py-2 text-[0.9rem] xl:text-[0.95rem]'>
+                      <div className='font-ibm_plex_sans_thai font-medium rounded-full bg-transparent border border-[#1F1F1F] text-[#1F1F1F] hover:text-white hover:bg-[#1F1F1F] hover:border-[#1F1F1F] w-[120px] xl:w-[140px] mt-6 py-1 xl:py-2 text-[0.9rem] xl:text-[0.95rem]'>
                         <div className='translate-x-0 hover:translate-x-1 transition-all duration-300 flex flex-row items-center justify-center'>
                           <span className='pt-[3px]'>ซื้อแพ็กเกจ</span><IoIosCart className='ml-[7px]' />
                         </div>
-                      </Button>
+                      </div>
                     </Link>
                   </div>
                 </div>
