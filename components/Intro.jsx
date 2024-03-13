@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
-import neurologycenter from '../public/800x1200-visit-pyt1.jpg'
+import neurologycenter from '../public/Neurology-Center-Intro-Image.jpg'
 
 const Intro = () => {
   return (
