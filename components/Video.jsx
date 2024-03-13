@@ -11,10 +11,10 @@ const videoData = [
     link: 'https://bit.ly/3Oel3xR',
   },
   {
-    image: '/about/cover_01.jpg',
+    image: '/about/cover_02.jpg',
     category: 'Video แนะนำศูนย์',
-    name: 'ก้าว..ที่อบอุ่น ENDOSCOPIC SURGERY โรงพยาบาลพญาไท 1',
-    link: 'https://bit.ly/4bcEeSr',
+    name: 'เรียกหน่วยรักษาอัมพาตเฉียบพลันเคลื่อนที่ โทร 1772 กด 7',
+    link: 'https://bit.ly/3S8qNdA',
   },
   {
     image: '/about/cover_04.jpg',
@@ -23,10 +23,10 @@ const videoData = [
     link: 'https://bit.ly/4bcmgPT',
   },
   {
-    image: '/about/cover_02.jpg',
+    image: '/about/cover_01.jpg',
     category: 'Video แนะนำศูนย์',
-    name: 'เรียกหน่วยรักษาอัมพาตเฉียบพลันเคลื่อนที่ โทร 1772 กด 7',
-    link: 'https://bit.ly/3S8qNdA',
+    name: 'ก้าว..ที่อบอุ่น ENDOSCOPIC SURGERY โรงพยาบาลพญาไท 1',
+    link: 'https://bit.ly/4bcEeSr',
   },
 ]
 
