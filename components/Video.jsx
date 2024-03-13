@@ -5,28 +5,28 @@ import VideoCard from './VideoCard';
 
 const videoData = [
   {
-    image: '/about/cover_01.jpg',
-    category: 'Video แนะนำศูนย์',
-    name: 'ก้าว..ที่อบอุ่น ENDOSCOPIC SURGERY โรงพยาบาลพญาไท 1',
-    link: 'https://bit.ly/4bcEeSr',
-  },
-  {
-    image: '/about/cover_02.jpg',
-    category: 'Video แนะนำศูนย์',
-    name: 'เรียกหน่วยรักษาอัมพาตเฉียบพลันเคลื่อนที่ โทร 1772 กด 7',
-    link: 'https://bit.ly/3S8qNdA',
-  },
-  {
     image: '/about/cover_03.jpg',
     category: 'Video แนะนำศูนย์',
     name: 'เพราะเวลาคือหัวใจสำคัญของการรักษา Mobile CT & Stroke Treatment Unit',
     link: 'https://bit.ly/3Oel3xR',
   },
   {
+    image: '/about/cover_01.jpg',
+    category: 'Video แนะนำศูนย์',
+    name: 'ก้าว..ที่อบอุ่น ENDOSCOPIC SURGERY โรงพยาบาลพญาไท 1',
+    link: 'https://bit.ly/4bcEeSr',
+  },
+  {
     image: '/about/cover_04.jpg',
     category: 'Video จากใจผู้รับบริการ',
     name: 'จากผู้ป่วยติดเตียง สู่ นักวิ่งมาราธอน คุณสุรจิต รักติประกร',
     link: 'https://bit.ly/4bcmgPT',
+  },
+  {
+    image: '/about/cover_02.jpg',
+    category: 'Video แนะนำศูนย์',
+    name: 'เรียกหน่วยรักษาอัมพาตเฉียบพลันเคลื่อนที่ โทร 1772 กด 7',
+    link: 'https://bit.ly/3S8qNdA',
   },
 ]
 
